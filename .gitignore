@@ -7,5 +7,5 @@ temp/
 auto/
 .vscode/
 copy_nkp.sh
-nkp/config/
+nkp/
 nkp/project-custom
